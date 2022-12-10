@@ -1,4 +1,5 @@
 v1: Nombre y appellidos 
 v2:Direcion y telefono 
 v3:Nacionalidad y sexo 
-v4:correo y cuenta bancaria 
+v4:correo y cuenta bancaria
+v5:religion y estudios
