@@ -6,3 +6,4 @@ v3:body
 
 
 re: etiqueta padre
+re:etiqueta hijo
